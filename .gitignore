@@ -1,0 +1,15 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.log
+.env
+# App data and uploaded ciphertext (generated at runtime)
+data/
+instance/
+# Editors
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
